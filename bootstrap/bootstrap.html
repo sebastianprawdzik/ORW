@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Theme Sebastian Prawdzik</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <style>
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+      background-color: #1abc9c; 
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #474e5d; 
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff; 
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; 
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div id="2" class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="bootstrap.html">Sebastian Prawdzik</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="contact.html">kontakt</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- First Container -->
+<div class="container-fluid bg-1 text-center">
+  <h3 class="margin">#prawdziks</h3>
+  <img src="me.jpg" class="img-responsive img-circle margin" style="display:inline" alt="me" width="350" height="350">
+  <h3>Student Akademii Marynarki Wojennej w Gdyni</h3>
+</div>
+
+<!-- Second Container -->
+<div class="container-fluid bg-2 text-center">
+  <h3 class="margin">Sebastian Prawdzik</h3>
+  <p>zapraszam do zapoznania się z moją stroną <i class="fa fa-beer fa-3x"></i> </p>
+  <a href="#2">
+    <button type="button" class="btn btn-success">Start</button>
+  </a>
+  <a href="#3">
+    <button type="button" class="btn btn-primary">O mnie</button>
+  </a>
+  <a href="#4">
+    <button type="button" class="btn btn-danger">Koniec</button>
+  </a>
+</div>
+
+<!-- Third Container (Grid) -->
+<div id="3" class="container-fluid bg-3 text-center">    
+  <h3 class="margin">3 po 3 o mnie</h3><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <p>Urodziłem się w Suwałkach, Polski biegun zimna.</p>
+      <img src="suwalki.jpg" class="img-responsive margin" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p>Jestem studentem AMW w Gdynia.</p>
+      <img src="amw.jpg" class="img-responsive margin" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <div class="btn-group">
+		  <button type="button" class="btn btn-success">Moje hobby</button>
+		  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+			<span class="caret"></span>
+		  </button>
+		  <ul class="dropdown-menu" role="menu">
+			<li>nowe technologie <i class="fa fa-laptop"></i></li>
+			<li>snowboard</li>
+			<li>siłownia</li>
+			<li>gotowanie</li>
+		  </ul>
+		</div>
+      <img src="hobby.jpg" class="img-responsive margin" style="width:80%" alt="Image">
+		  
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer id="4" class="container-fluid bg-4 text-center">
+	<div class="progress">
+		<div class="progress-bar progress-bar-success" style="width: 50%">50%</div>
+	</div>
+	<div class="progress">
+		<div class="progress-bar progress-bar-warning" style="width: 100%">100%</div>
+	</div>
+  <p>Zaawansowane aplikacje www</a></p> 
+</footer>
+
+</body>
+</html>

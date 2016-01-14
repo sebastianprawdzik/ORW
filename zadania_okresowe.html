@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<p>ciąg fibonacciego</p>
+
+<button id="1" onclick="stopCiag()">Stop ciag</button>
+
+<script>
+var a = 1;
+var b = 2;
+var c = 0;
+var myVar = setInterval(function(){ setCiag() }, 1000);
+
+function setCiag() {
+  c = a+b;
+  document.getElementById("demo").innerHTML = c;
+  a=b;
+  b=c;
+}
+ 
+function stopCiag() {
+  clearInterval(myVar);
+}
+</script>
+
+<button id="2" onclick="stopColor()">Stop tlo</button>
+
+<script>
+var myVar2 = setInterval(function(){ setColor() }, 900);
+ 
+function setColor() {
+  var x = document.body;
+  x.style.backgroundColor = x.style.backgroundColor == "red" ? "green" : "red";
+}
+ 
+function stopColor() {
+  clearInterval(myVar2);
+}
+</script>
+
+<p id="demo">Wyswietl</p>
+</body>
+</html>
+
+
