@@ -1,0 +1,28 @@
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\MvcApplication3 - Prawdzik.dll.config
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\MvcApplication3 - Prawdzik.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\MvcApplication3 - Prawdzik.pdb
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Net.Http.Formatting.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Helpers.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Http.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Http.WebHost.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Razor.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Net.Http.Formatting.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Http.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Http.WebHost.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Helpers.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.Razor.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\obj\Debug\MvcApplication3 - Prawdzik.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\obj\Debug\MvcApplication3 - Prawdzik.dll
+C:\Users\Sebastian\Desktop\WebAPI\MvcApplication3 - Prawdzik\MvcApplication3 - Prawdzik\obj\Debug\MvcApplication3 - Prawdzik.pdb
